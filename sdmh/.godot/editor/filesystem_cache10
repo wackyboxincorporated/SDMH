@@ -1,0 +1,58 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1780000086
+icon.svg::CompressedTexture2D::7485301942129848419::1779999667::1779999773::1::::<><><>0<>0<>4f0539aea8cce392d8da6436ba51278b<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://Assets/::1780000017
+::res://Assets/Anims/::1780000027
+::res://Assets/Anims/Universal Animation Library 2[Standard]/::1780000050
+Godot_Setup.png::CompressedTexture2D::512224826459646325::1780000026::1780000050::1::::<><><>0<>0<>e18b3c19a93685fbafb899db5bd6706b<>res://.godot/imported/Godot_Setup.png-832963b52b9119794f6878feb641ca3c.ctex::
+License.txt::TextFile::-1::1780000026::0::1::::<><><>0<>0<><>::
+Unity_Setup.png::CompressedTexture2D::8572769780371878473::1780000026::1780000049::1::::<><><>0<>0<>6eaa47a1063cb4ef6a8bd5f8e3b5e2b2<>res://.godot/imported/Unity_Setup.png-ef9773f5c225bdafd58256626fd543ac.ctex::
+Unreal_Setup.png::CompressedTexture2D::939666498013072343::1780000026::1780000049::1::::<><><>0<>0<>4e6f510132f1144c405c4f8d5862d6ba<>res://.godot/imported/Unreal_Setup.png-3a5cda9bb04c5c12ffb2d6a4702e2f73.ctex::
+::res://Assets/Anims/Universal Animation Library 2[Standard]/Female Mannequin/::1780000061
+README.txt::TextFile::-1::1780000026::0::1::::<><><>0<>0<><>::
+::res://Assets/Anims/Universal Animation Library 2[Standard]/Female Mannequin/Unity/::1780000061
+Mannequin_F.fbx::PackedScene::8221690353705959243::1780000026::1780000061::1::::<><><>0<>0<>f6c00c99bc15dd1d78189e9ff64b2d8e<>res://.godot/imported/Mannequin_F.fbx-cd1d3e65783d959d1a2153bda357677a.scn::
+::res://Assets/Anims/Universal Animation Library 2[Standard]/Female Mannequin/Unreal-Godot/::1780000061
+Mannequin_F.glb::PackedScene::4408866699466657514::1780000026::1780000061::1::::<><><>0<>0<>863de635df89a14343899c9a4f368e5d<>res://.godot/imported/Mannequin_F.glb-0baca2b5ad3ed5434f31e83629366eef.scn::
+::res://Assets/Anims/Universal Animation Library 2[Standard]/Unity/::1780000060
+UAL2_Standard.fbx::PackedScene::8912829694207328111::1780000027::1780000060::1::::<><><>0<>0<>dfab45306550637259a10e036c1d676a<>res://.godot/imported/UAL2_Standard.fbx-4e129d0ef6ea20efea545c605dd12c57.scn::
+::res://Assets/Anims/Universal Animation Library 2[Standard]/Unreal-Godot/::1780000060
+UAL2_Standard.glb::PackedScene::4886084602437771398::1780000027::1780000060::1::::<><><>0<>0<>e57575049353abd26e22fb2da49af6e3<>res://.godot/imported/UAL2_Standard.glb-5cf0ad6e7a03aad444142510535b71e5.scn::
+::res://Assets/Anims/Universal Animation Library[Standard]/::1780000050
+Godot_Setup.png::CompressedTexture2D::9192716106956198367::1780000027::1780000050::1::::<><><>0<>0<>6f1610ade6a4eaf835217c1d0c726365<>res://.godot/imported/Godot_Setup.png-db03e41d96d6fa8f0ffbb99e6f46418a.ctex::
+License.txt::TextFile::-1::1780000027::0::1::::<><><>0<>0<><>::
+Unity_Setup.png::CompressedTexture2D::7765402837644196532::1780000027::1780000049::1::::<><><>0<>0<>03c2ac68fdae1930042ac17ab1e91240<>res://.godot/imported/Unity_Setup.png-2aca0fb87c2cdb8971e12e2c2efde9c3.ctex::
+Unreal_Setup.png::CompressedTexture2D::1150331049303809238::1780000027::1780000049::1::::<><><>0<>0<>3154051c1d5f473c82c9914771d8bdff<>res://.godot/imported/Unreal_Setup.png-676b99b15625ce94a9f4a9bd7163e33f.ctex::
+::res://Assets/Anims/Universal Animation Library[Standard]/Unity/::1780000059
+UAL1_Standard.fbx::PackedScene::487396491830862369::1780000027::1780000059::1::::<><><>0<>0<>49b3746b28efa171f7b030e2a87cc152<>res://.godot/imported/UAL1_Standard.fbx-631ebf94778e4f88d109a8bf2911e8c2.scn::
+::res://Assets/Anims/Universal Animation Library[Standard]/Unreal-Godot/::1780000058
+UAL1_Standard.glb::PackedScene::5338654904002679119::1780000027::1780000058::1::::<><><>0<>0<>80ad0a462a9d0d0a080a2db7fd53266e<>res://.godot/imported/UAL1_Standard.glb-1a5b9e167e4ee898411bfce55f0bbdfd.scn::
+::res://Assets/Playable_Characters/::1779999667
+::res://Assets/Playable_Characters/1Placehold/::1779999918
+Duende.glb::PackedScene::9005855541726176103::1779999667::1779999774::1::::<><><>0<>0<>1a505bf1bd6d9414f30e3c65c04dad90<>res://.godot/imported/Duende.glb-cecbce8b771e21e1528812e0af15bcf1.scn::uid://bavva35luho3x::::res://Assets/Playable_Characters/1Placehold/Duende_Dante_Amulet_D.png<>uid://dsfenv46v6vjs::::res://Assets/Playable_Characters/1Placehold/Duende_Dante_Pants_D.png<>uid://c1wpw0r3q5f3t::::res://Assets/Playable_Characters/1Placehold/Duende_Dante_Coat_D.png<>uid://coks5gssk67nj::::res://Assets/Playable_Characters/1Placehold/Duende_Dante_Body_D.png<>uid://4jxkf2feg7ol::::res://Assets/Playable_Characters/1Placehold/Duende_Dante_Pants2_D.png<>uid://dgb8q17wfv854::::res://Assets/Playable_Characters/1Placehold/Duende_Dante_Hands_D.png<>uid://doeqj665xqoh::::res://Assets/Playable_Characters/1Placehold/Duende_Dante_Head_D.png<>uid://b3y7x2aoctsg4::::res://Assets/Playable_Characters/1Placehold/Duende_Dante_Hair_D.png<>uid://p5x25flypb8h::::res://Assets/Playable_Characters/1Placehold/Duende_Dante_Hair_N.png<>uid://vrtctqannkrk::::res://Assets/Playable_Characters/1Placehold/Duende_Dante_EI_D.png<>uid://bbiktiy4pgv55::::res://Assets/Playable_Characters/1Placehold/Duende_Dante_EI_S.png<>uid://10f5r5itxw36::::res://Assets/Playable_Characters/1Placehold/Duende_Dante_N.png<>uid://x7qu2qxh0lum::::res://Assets/Playable_Characters/1Placehold/Duende_Dante_Rebellion_Awake_D.png<>uid://sh7q42a5ciqs::::res://Assets/Playable_Characters/1Placehold/Duende_Dante_Rebellion_Awake_S.png<>uid://bbta661gnkmve::::res://Assets/Playable_Characters/1Placehold/Duende_Dante_Rebellion_NonAwake_D.png<>uid://cn0m1d78wa2xb::::res://Assets/Playable_Characters/1Placehold/Duende_Dante_Rebellion_NonAwake_S.png
+Duende_Dante_Amulet_D.png::CompressedTexture2D::2431049190901197279::1779999667::1779999773::1::::<><><>0<>0<>dae73a4c66a26d79b2436bcb09fd33d6<>res://.godot/imported/Duende_Dante_Amulet_D.png-d0f4bc3cb3931d42eb661683c33e94a4.s3tc.ctex::
+Duende_Dante_Amulet_S.png::CompressedTexture2D::6260908008995742838::1779999667::1779999773::1::::<><><>0<>0<>d50d77658dbd6f1fc220deb2bd47e70d<>res://.godot/imported/Duende_Dante_Amulet_S.png-4f5d72f888a004bbe89999bc4d1faf1c.ctex::
+Duende_Dante_Body_D.png::CompressedTexture2D::5777275779325233691::1779999667::1779999773::1::::<><><>0<>0<>d865c169b1b06e137560f94c27cbc310<>res://.godot/imported/Duende_Dante_Body_D.png-9c14e0f3a07e8e53e813cb82d774a5b8.s3tc.ctex::
+Duende_Dante_Body_S.png::CompressedTexture2D::4531624591332408882::1779999667::1779999773::1::::<><><>0<>0<>90610f041a4fd1b0fbfbc350d9069104<>res://.godot/imported/Duende_Dante_Body_S.png-2a85d370b87023f0ff53a47cfb4c6739.ctex::
+Duende_Dante_Coat_D.png::CompressedTexture2D::6644118995561951631::1779999667::1779999773::1::::<><><>0<>0<>765c7b461576caa1de258e3bb11f25bb<>res://.godot/imported/Duende_Dante_Coat_D.png-19fa5572c6005cefefd1b97852d063ff.s3tc.ctex::
+Duende_Dante_Coat_S.png::CompressedTexture2D::3076500551640740858::1779999667::1779999773::1::::<><><>0<>0<>26d50c16efd7e10a9a777aeba8c23e39<>res://.godot/imported/Duende_Dante_Coat_S.png-bcf47c8ef0b9ec9a31eed6058059dfa6.ctex::
+Duende_Dante_EI_D.png::CompressedTexture2D::1510218355346487724::1779999667::1779999773::1::::<><><>0<>0<>cc39ce33f50c0d366b39ca83ba994c62<>res://.godot/imported/Duende_Dante_EI_D.png-1a9ae6ee0400a1d76e270a6c653df6f3.s3tc.ctex::
+Duende_Dante_EI_S.png::CompressedTexture2D::2473766107975509934::1779999667::1779999773::1::::<><><>0<>0<>ac7197598661f7a2113bbe2f7704ec62<>res://.godot/imported/Duende_Dante_EI_S.png-1d0879469105a5100b0c354f1aba8117.s3tc.ctex::
+Duende_Dante_Hair_D.png::CompressedTexture2D::4403238807453772201::1779999667::1779999773::1::::<><><>0<>0<>b14194a3b536e1b59d34059e45ecde29<>res://.godot/imported/Duende_Dante_Hair_D.png-2294974529c41f9029024fcaf169ad8d.s3tc.ctex::
+Duende_Dante_Hair_N.png::CompressedTexture2D::1116210278418319877::1779999667::1779999773::1::::<><><>0<>0<>c0d88d6df17d3dfe00b579ae41c5e45c<>res://.godot/imported/Duende_Dante_Hair_N.png-92f634ed063dbece3f718237126237fb.s3tc.ctex::
+Duende_Dante_Hands_D.png::CompressedTexture2D::7584493140173299541::1779999667::1779999773::1::::<><><>0<>0<>5d3b301d8200c8fbbd662339b1c6308f<>res://.godot/imported/Duende_Dante_Hands_D.png-445dbce9b1f4acf1820277bf1d100632.s3tc.ctex::
+Duende_Dante_Hands_S.png::CompressedTexture2D::5908477136345560881::1779999667::1779999773::1::::<><><>0<>0<>dfdfbb7bf33f119c38d38114df99a2ea<>res://.godot/imported/Duende_Dante_Hands_S.png-5d387cb0c9fb259f635c174d62e7d154.ctex::
+Duende_Dante_Head_D.png::CompressedTexture2D::239739782193077595::1779999667::1779999773::1::::<><><>0<>0<>898f9ad2e03be8376eedfccd0ccb436d<>res://.godot/imported/Duende_Dante_Head_D.png-7f14ba1eeca919c9f59722be3473cee6.s3tc.ctex::
+Duende_Dante_Head_S.png::CompressedTexture2D::7883214813530609978::1779999667::1779999773::1::::<><><>0<>0<>a04b4b6cb897344cd15a75b2d3943dbf<>res://.godot/imported/Duende_Dante_Head_S.png-e859e490e618e7697fb68d9e609a353c.ctex::
+Duende_Dante_N.png::CompressedTexture2D::1876877476852204695::1779999667::1779999773::1::::<><><>0<>0<>d0027662ac8a466301c9ac23067386f4<>res://.godot/imported/Duende_Dante_N.png-78cadc89afd9b2988d6faa51a92f9336.s3tc.ctex::
+Duende_Dante_Pants2_D.png::CompressedTexture2D::2055470518621420471::1779999667::1779999773::1::::<><><>0<>0<>10fcdef8ed0752af0230bbc853a2ea5b<>res://.godot/imported/Duende_Dante_Pants2_D.png-21a5e5206b463a7fc2f0f018c4279e35.s3tc.ctex::
+Duende_Dante_Pants_D.png::CompressedTexture2D::8433250357853499776::1779999667::1779999773::1::::<><><>0<>0<>07174b1f5a4a149f08b66d7bcb20c0c5<>res://.godot/imported/Duende_Dante_Pants_D.png-46a95cdb40000f18ba29c4838b3a83b0.s3tc.ctex::
+Duende_Dante_Pants_S.png::CompressedTexture2D::4982322826439619750::1779999667::1779999773::1::::<><><>0<>0<>9625965868f41ae7528b407008e4a3b2<>res://.godot/imported/Duende_Dante_Pants_S.png-cb554c961e4b53afd7516db1ecc6a8e4.ctex::
+Duende_Dante_Rebellion_Awake_D.png::CompressedTexture2D::1681412123469708664::1779999667::1779999773::1::::<><><>0<>0<>02e5c96fc61b43bd908cb2a2c9ace503<>res://.godot/imported/Duende_Dante_Rebellion_Awake_D.png-ca4b7b042165b5507c4863e008ccb1b4.s3tc.ctex::
+Duende_Dante_Rebellion_Awake_S.png::CompressedTexture2D::1279822911161058434::1779999667::1779999773::1::::<><><>0<>0<>2febc97c2547f5f620c008f4695b6537<>res://.godot/imported/Duende_Dante_Rebellion_Awake_S.png-af48f0209ced7f778864e4dedfa1a97c.s3tc.ctex::
+Duende_Dante_Rebellion_NonAwake_D.png::CompressedTexture2D::2495889732948482782::1779999667::1779999773::1::::<><><>0<>0<>2be39348f54f71047242fc5f3589dee2<>res://.godot/imported/Duende_Dante_Rebellion_NonAwake_D.png-26b3549ac33d7e9981390ddcc71ddcd3.s3tc.ctex::
+Duende_Dante_Rebellion_NonAwake_S.png::CompressedTexture2D::5737681021619434491::1779999667::1779999773::1::::<><><>0<>0<>9f04ab75fde08b88217e90dfebf751a5<>res://.godot/imported/Duende_Dante_Rebellion_NonAwake_S.png-b7c11897f894f00cf08d4597b062cfa9.s3tc.ctex::
+pirtsye.gd::GDScript::4089476529304539592::1779999918::0::1::::<>CharacterBody3D<><>0<>0<><>::
+::res://scenes/::1780000065
+test_scene.tscn::PackedScene::2662309991173255877::1780000065::0::1::::<><><>0<>0<><>::uid://d1kreiramg53h::::res://Assets/Playable_Characters/1Placehold/Duende.glb<>uid://byi8c0t7vbfxo::::res://Assets/Playable_Characters/1Placehold/pirtsye.gd
+::res://Scripts/::1779999908

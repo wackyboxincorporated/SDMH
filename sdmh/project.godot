@@ -11,9 +11,13 @@ config_version=5
 [application]
 
 config/name="Sdmh"
-run/main_scene="res://Burt.tscn"
+run/main_scene="res://scenes/test_scene.tscn"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
+
+[filesystem]
+
+import/blender/enabled=false
 
 [physics]
 

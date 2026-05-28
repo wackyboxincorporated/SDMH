@@ -1,3 +1,59 @@
 [gd_scene format=3 uid="uid://bd6v4ehjcgg82"]
 
-[node name="Node3D" type="Node3D" unique_id=1736227508]
+[ext_resource type="PackedScene" uid="uid://d1kreiramg53h" path="res://Assets/Playable_Characters/1Placehold/Duende.glb" id="1_j8ivh"]
+[ext_resource type="Script" uid="uid://byi8c0t7vbfxo" path="res://Assets/Playable_Characters/1Placehold/pirtsye.gd" id="2_nd71p"]
+
+[node name="Node3D" type="Node3D" unique_id=1054174685]
+
+[node name="Duende" parent="." unique_id=1849513928 instance=ExtResource("1_j8ivh")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.47662354, 0.030789614, -0.64450693)
+script = ExtResource("2_nd71p")
+
+[node name="Camera3D" type="Camera3D" parent="Duende" unique_id=1583499577]
+transform = Transform3D(-1, -1.7763568e-15, -8.742277e-08, -1.7986629e-08, 0.97860605, 0.20574304, 8.555246e-08, 0.20574304, -0.97860605, 0.02711159, 2.6710258, -1.5233376)
+current = true
+size = 2.014
+
+[node name="CSGCombiner3D" type="CSGCombiner3D" parent="." unique_id=2004897558]
+
+[node name="CSGBox3D" type="CSGBox3D" parent="CSGCombiner3D" unique_id=1943418891]
+transform = Transform3D(-1.7617438e-05, -0.0005163316, -6.0483985, -2.5300138, 0.009108498, 0, 0.028040888, 0.8218218, -0.0038000683, 0.4668646, 2.0943954, 3.0126202)
+use_collision = true
+size = Vector3(1.6655273, 1, 1)
+
+[node name="CSGCylinder3D" type="CSGCylinder3D" parent="CSGCombiner3D/CSGBox3D" unique_id=573830146]
+transform = Transform3D(1, 2.3283064e-10, 0, 0, 1, 0, 4.5474735e-13, 0, 0.3498692, 0.001773715, 0.49268627, -4.2065978e-05)
+operation = 2
+
+[node name="CSGBox3D2" type="CSGBox3D" parent="CSGCombiner3D" unique_id=1676448109]
+transform = Transform3D(403.8639, 0, 0, 0, 0.024111433, 0, 0, 0, 247.77684, 0, 0, 0)
+use_collision = true
+
+[node name="CSGBox3D3" type="CSGBox3D" parent="CSGCombiner3D" unique_id=783785229]
+transform = Transform3D(4.8343575e-15, -3.5925183e-08, -6.0484, -2.5301692, -3.5925183e-08, 0, -1.1059721e-07, 0.8218724, -2.6438397e-07, 0.4306476, 2.0943954, -3.5978944)
+use_collision = true
+size = Vector3(1.6655273, 1, 1)
+
+[node name="CSGCylinder3D" type="CSGCylinder3D" parent="CSGCombiner3D/CSGBox3D3" unique_id=998362311]
+transform = Transform3D(1.6885152, -4.656613e-10, -9.094947e-13, -3.7252903e-09, 0.9928449, 4.656613e-10, 9.094947e-13, 2.910383e-11, 0.6168585, 0.23911834, -0.008158684, 0)
+operation = 2
+
+[node name="CSGBox3D4" type="CSGBox3D" parent="CSGCombiner3D" unique_id=670593901]
+transform = Transform3D(-1.1059722e-07, 0.8218726, 0, -2.5301695, -3.5925193e-08, 0, 0, 0, 6.0484004, -2.1744993, 2.0943954, -0.30032516)
+use_collision = true
+size = Vector3(1.6655273, 1, 1)
+
+[node name="CSGCylinder3D" type="CSGCylinder3D" parent="CSGCombiner3D/CSGBox3D4" unique_id=1708455418]
+transform = Transform3D(0.99999994, 0, 0, 0, 0.99999994, 0, 0, 0, 0.34986916, 0, 0, 0)
+operation = 2
+
+[node name="CSGBox3D5" type="CSGBox3D" parent="CSGCombiner3D" unique_id=83212791]
+transform = Transform3D(-1.1059722e-07, -0.8218726, 0, 2.5301695, -3.5925193e-08, 0, 0, 0, 6.0484004, 3.0399764, 2.0943954, -0.30032516)
+use_collision = true
+size = Vector3(1.6655273, 1, 1)
+
+[node name="CSGCylinder3D" type="CSGCylinder3D" parent="CSGCombiner3D/CSGBox3D5" unique_id=2006584366]
+transform = Transform3D(0.99999994, 0, 0, 0, 0.99999994, 0, 0, 0, 0.34986916, 0, 0, 0)
+operation = 2
+
+[editable path="Duende"]
